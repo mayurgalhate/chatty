@@ -23,7 +23,7 @@ Chatty is a full-stack real-time chat application designed to enable instant, se
 
 1. **Clone the repository:**
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/mayurgalhate/chatty.git
    cd chatty
    ```
 
